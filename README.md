@@ -2,7 +2,7 @@
 
 ## 🔖 Project Title: Virtual Dressing Room in Online Shopping Applications  
 
-This repository contains the implementation of my **6th semester mini project**:  
+This repository contains the implementation of our **6th semester mini project**:  
 A **Virtual Dressing Room** that provides an **immersive online shopping experience** by allowing users to virtually try on beauty and fashion products.  
 
 ---
@@ -62,4 +62,4 @@ Guided by:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Virtual Makeup Try On.git
+   git clone https://github.com/your-username/Virtual-Makeup-Try-On.git
