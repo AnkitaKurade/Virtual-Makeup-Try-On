@@ -62,4 +62,4 @@ Guided by:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Virtual-Dressing-Room.git
+   git clone https://github.com/your-username/Virtual Makeup Try On.git
